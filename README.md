@@ -6,6 +6,10 @@ zabbix Alert Rocket.Chat script
 3. 建议使用 python 脚本
 4. 需要在 zabbix 设置两个传参 
 
+### 交流群
+
+<img src="https://github.com/X-Mars/Zabbix-Alert-Rocket.Chat/blob/master/images/2.jpg?raw=true" width="70%" height="70%">
+
 ### 效果截图
 <img src="https://github.com/X-Mars/Zabbix-Alert-Rocket.Chat/blob/master/images/1.jpg?raw=true" width="70%" height="70%">
 
