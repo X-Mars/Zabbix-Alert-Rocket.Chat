@@ -8,7 +8,7 @@ zabbix Alert Rocket.Chat script
 
 ### 交流群
 
-<img src="https://github.com/X-Mars/Zabbix-Alert-Rocket.Chat/blob/master/images/2.jpg?raw=true" width="70%" height="70%">
+<img src="https://github.com/X-Mars/Zabbix-Alert-Rocket.Chat/blob/master/images/2.jpg?raw=true" width="40%" height="40%">
 
 ### 效果截图
 <img src="https://github.com/X-Mars/Zabbix-Alert-Rocket.Chat/blob/master/images/1.jpg?raw=true" width="70%" height="70%">
